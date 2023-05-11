@@ -4,64 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7564b570-b68b-456e-a3f9-bc2b5e39aeb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/100 days of code starting over/Day 1/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/Main function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/images/false.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/images/true.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/question_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/quiz_brain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator/Calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day - 45 - Soup/100_best_mobies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day - 45 - Soup/Hacker_scraping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day - 45 - Soup/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day - 46/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day - 47 - Amazon Tracker/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 12 - scp[e/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 17 - OOP Quiz/Main Redo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 17 - OOP Quiz/Opp main redo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6 - Hangman/Practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OPP Prac/Coffe machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OPP Prac/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Course/lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day - 14 higher or lower/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day 9/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100 days of code.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Aang invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Aang invite letter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Appa invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Appa invite letter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Katara invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Katara invite letter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Momo invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Momo invite letter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Sokka invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Sokka invite letter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Toph invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Toph invite letter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Uncle Iroh invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Uncle Iroh invite letter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Zuko invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Zuko invite letter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day - 24/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day - 30 Errors/code prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 30 Errors/code prac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day - 34/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 34/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day - 37/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 37/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day - 38/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 38/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 10 - Functions/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10 - Functions/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 12 - scp[e/project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 12 - scp[e/project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 6 - Hangman/Hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6 - Hangman/Hangman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8 - Functions/prime number cheacker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8 - Functions/prime number cheacker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-39/Part 1/flight_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-39/Part 1/flight_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day - 14 higher or lower/higher or lower.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 5/day 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 5/day 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 5/fizz buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 5/fizz buzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 9/blind action.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 9/blind action.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 9/country function.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 9/country function.py" afterDir="false" />
-    </list>
+    <list default="true" id="7564b570-b68b-456e-a3f9-bc2b5e39aeb6" name="Changes" comment="Completed 100 Days !!!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,13 +41,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/-CP1404-cp1404practicals&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/100-Days-of-Code"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\100-Days-of-Code\100 days of code starting over\day - 34" />
@@ -235,6 +178,25 @@
       <option name="presentableId" value="Default" />
       <updated>1679651383869</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completed 100 Days !!!">
+      <created>1683790894468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683790894468</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Completed 100 Days !!!">
+      <created>1683791032004</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683791032004</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed 100 Days !!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed 100 Days !!!" />
   </component>
 </project>
