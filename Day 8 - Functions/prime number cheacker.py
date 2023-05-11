@@ -17,3 +17,20 @@ def prime_checker(number):
 n = int(input("Check this number: "))
 prime_checker(number=n)
 
+
+def prime_checker2(number):
+
+    if number % 1 == 0 and number % number == 0:
+        is_prime = True
+
+        for i in range(2,number):
+            if number % i == 0:
+                is_prime = False
+    if is_prime == True:
+        print('Prime')
+    else:
+        print('Non Prime')
+
+n = int(input("Check this number: "))
+prime_checker(number=n)
+

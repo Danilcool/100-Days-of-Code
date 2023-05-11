@@ -10,3 +10,4 @@ print(total)
 
 
 print(total/len(student_height))
+

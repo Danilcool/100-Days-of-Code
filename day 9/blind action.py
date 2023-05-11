@@ -15,11 +15,11 @@ print(list_of_bidders)
 
 def fund_highest_bidder(list_of_bidders):
     top_bid = 0
-    for key in list_of_bidders:
-        bid_amount = list_of_bidders[key]
+    for bidder in list_of_bidders:
+        bid_amount = list_of_bidders[bidder]
         if bid_amount > top_bid:
             top_bid = bid_amount
-            winner = key
+            winner = bidder
     print(top_bid, winner)
 
 fund_highest_bidder(list_of_bidders)

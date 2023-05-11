@@ -35,4 +35,12 @@ for post in facebook_posts:
 print(total_likes)
 
 
+
+
+for post in facebook_posts:
+    try:
+        total_likes += post['likes']
+    except KeyError:
+        total_likes += 0
+
 print(total_likes)

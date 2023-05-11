@@ -1,6 +1,6 @@
 import pandas as pd
 
-raw_data = {'first_name': 'Sheldon',,
+raw_data = {'first_name': 'Sheldon',
             'last_name': ['Copper', 'Koothrappali', 'Hofstadter', 'Wolowitz', 'Fowler'],
             'age': [42, 38, 36, 41, 35],
             'Comedy_Score': [9, 7, 8, 8, 5],

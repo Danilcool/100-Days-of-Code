@@ -22,6 +22,7 @@ graphs = {"id":"graph1",
           "color":"ajisai"
                   ""}
 
+
 graph_endpoint = f'{pixela_end_point}/{user_name}/graphs1'
 
 headers = {
@@ -35,8 +36,6 @@ headers = {
 
 dates= {"date":f"{time.year}{time.month}{time.day}",
         "quantity":"2"}
-
-
 
 
 
