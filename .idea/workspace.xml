@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7564b570-b68b-456e-a3f9-bc2b5e39aeb6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/100 days of code starting over/Day 1/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/Main function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/images/false.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/images/true.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100 days of code starting over/day - 34/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator/Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day - 45 - Soup/100_best_mobies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day - 45 - Soup/Hacker_scraping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day - 45 - Soup/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day - 46/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day - 47 - Amazon Tracker/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 12 - scp[e/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 17 - OOP Quiz/Main Redo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 17 - OOP Quiz/Opp main redo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 6 - Hangman/Practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPP Prac/Coffe machine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OPP Prac/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Course/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day - 14 higher or lower/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day 9/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/100 days of code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Aang invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Aang invite letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Appa invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Appa invite letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Katara invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Katara invite letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Momo invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Momo invite letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Sokka invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Sokka invite letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Toph invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Toph invite letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Uncle Iroh invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Uncle Iroh invite letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Zuko invite letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/Output/ReadyToSend/Zuko invite letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day - 24/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 24/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day - 30 Errors/code prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 30 Errors/code prac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day - 34/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 34/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day - 37/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 37/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day - 38/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day - 38/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 10 - Functions/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 10 - Functions/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 12 - scp[e/project.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 12 - scp[e/project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6 - Hangman/Hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6 - Hangman/Hangman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 8 - Functions/prime number cheacker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 8 - Functions/prime number cheacker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-39/Part 1/flight_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-39/Part 1/flight_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day - 14 higher or lower/higher or lower.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day 5/day 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 5/day 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day 5/fizz buzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 5/fizz buzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day 9/blind action.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 9/blind action.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day 9/country function.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 9/country function.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="013962e6-459b-4efc-9826-6836920edb5d" />
+        <option name="url" value="https://github.com/Danilcool/100-Days-of-Code.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NSJ7fR8XxB5HbPTXcc4tXlKXWq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/-CP1404-cp1404practicals&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\100-Days-of-Code\100 days of code starting over\day - 34" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (2)">
+    <configuration name="100_best_mobies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-Days-of-Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day - 45 - Soup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day - 45 - Soup/100_best_mobies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code prac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-Days-of-Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day - 30 Errors" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day - 30 Errors/code prac.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-Days-of-Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day - 46" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day - 46/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-Days-of-Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day - 47 - Amazon Tracker" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day - 47 - Amazon Tracker/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100-Days-of-Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day - 30 Errors" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day - 30 Errors/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.code prac" />
+        <item itemvalue="Python.100_best_mobies" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7564b570-b68b-456e-a3f9-bc2b5e39aeb6" name="Changes" comment="" />
+      <created>1679651383869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679651383869</updated>
+    </task>
+    <servers />
+  </component>
+</project>
